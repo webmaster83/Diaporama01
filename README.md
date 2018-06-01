@@ -1,3 +1,3 @@
-# Diaporama1
-Enlève ta Souris du Navigateur pour que ça marche :-) ! 
+r# Diaporama1
+Retire ta Souris Sur l'image pour que ça marche :-) ! 
 http://amine-nachit.be/javascriptTEST/DiaporamaImage/
