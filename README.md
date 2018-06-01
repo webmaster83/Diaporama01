@@ -1,3 +1,3 @@
-r# Diaporama1
+# Diaporama1
 Retire ta Souris Sur l'image pour que ça marche :-) ! 
 http://amine-nachit.be/javascriptTEST/DiaporamaImage/
