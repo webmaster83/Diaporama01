@@ -1,3 +1,3 @@
 # Diaporama1
-Diaporama 1 avec Javacript et mouseover
+Enlève ta Souris du Navigateur pour que ça marche :-) ! 
 http://amine-nachit.be/javascriptTEST/DiaporamaImage/
